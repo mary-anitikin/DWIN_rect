@@ -9,5 +9,6 @@ SPADDRESS=5000
 CMD0=0000=
 CMD1=2131=1
 [IMG]
-00=00.png
+00=00.jpg
 01=01.png
+03=03.jpg
